@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/news/barbara-project-profiles/</loc>
+    <lastmod>2018-05-26T21:38:44+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/projects/barbara-project/</loc>
+    <lastmod>2018-05-26T21:30:42+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/</loc>
+    <lastmod>2018-05-26T21:23:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/projects/school-improvements/</loc>
+    <lastmod>2018-05-25T21:34:46+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/projects/small-business-development/</loc>
+    <lastmod>2018-05-24T21:35:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/news/</loc>
+    <lastmod>2018-05-26T21:38:44+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/projects/</loc>
+    <lastmod>2018-05-26T21:30:42+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>distracted-hopper-50f30d.netlify.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
