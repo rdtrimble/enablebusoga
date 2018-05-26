@@ -1,5 +1,5 @@
 title = "Enable Busoga"
-baseURL = "distracted-hopper-50f30d.netlify.com"
+baseURL = "https://distracted-hopper-50f30d.netlify.com"
 languageCode = "en-us"
 theme = "ananke"
 
