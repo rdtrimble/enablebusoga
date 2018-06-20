@@ -1,6 +1,7 @@
 ---
 title: "The Barbara Project"
 date: 2018-05-26T21:30:42+01:00
+featured_image: "/images/penny-katy-wheelchair-1.jpg"
 draft: false
 ---
 

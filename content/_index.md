@@ -6,22 +6,16 @@ featured_image: "/images/enable.jpg"
 draft: false
 ---
 
-Enable Busoga is a UK based registered charitable Incorporative Organisation (C.I.O.) formed in 2016. 
-Busoga is a region of Southern Uganda whose main town is Jinja where the mighty river Nile has its source. 
-Most people live in rural areas where there is much poverty. As its name suggests Enable Busoga exists to help 
-people help themselves through the transfer of expertise, equipment and finance. Through partnership with 
-Ugandan friends and colleagues, we are active in education, business and in other areas of health provision 
-often overlooked by other agencies.
+Enable Busoga is a UK based registered charitable Incorporative Organisation (C.I.O.) formed in 2014. Busoga is a region of Southern Uganda whose main town is Jinja where the mighty river Nile has its source. Most people live in rural areas where there is much poverty. As its name suggests, Enable Busoga exists to help people help themselves through the transfer of expertise, equipment and finance. Through partnership with Ugandan friends and colleagues, we are active in education, business and in areas of health provision often overlooked by other agencies.
 
-## Our Biblical Foundation
+## Our Foundation
 
-As a Christian organisation we look to the Bible for instruction. Psalm 82 the psalmist instructs the people 
-of Israel: 
+As a Christian organisation we look to the Bible for instruction. Psalm 82 the psalmist instructs the people to: 
 
 > Defend the weak and the fatherless; uphold the cause of the poor and the oppressed. Rescue the weak 
 > and the needy; deliver them from the hand of the wicked
 
-It is the calling of Enable Busoga to love, care and protect the vulnerable and marginalised.
+It is the calling of Enable Busoga to love, care and empower the vulnerable and marginalised. We work closely with and support our many friends and partners in the Anglican church of Uganda as they seek to do the same.
 
 **There are 3 distinct areas of work carried out within the Enable Busoga Charity**
 
