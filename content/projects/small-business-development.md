@@ -25,7 +25,7 @@ A manager and several workers are employed to look after the seedlings. There ha
 
 ## Solar Powered Mobile Phone Charging
 
-![Picture of a bank of basic mobile phones being chaged from a six gang adaptor](/images/phones-charging.jpg)
+![Picture of a bank of basic mobile phones being charged from a six gang adaptor](/images/phones-charging.jpg)
 
 Currently there are 15 centres charging phones in the Busoga area. In general, the use of solar panels for domestic electricity including mobile phone charging is increasing all the time so Enable Busoga has concentrated its centres in more remote areas where this technology is not yet established. Mobile phones are now used by more than 40% of the Ugandan population and in remote areas people have to travel to the nearest trading centre to charge up. This involves a walk or a journey on a push bike/motor bike.  
 
