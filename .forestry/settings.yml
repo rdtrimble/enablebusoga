@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- path: content/programmes
+  label: Programmes
+  create: all
 - path: content
   label: Pages
-  create: all
-- path: content/projects
-  label: Projects
   create: all
 - path: content/news
   label: News
