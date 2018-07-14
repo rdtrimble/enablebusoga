@@ -1,0 +1,26 @@
+---
+label: News
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Enter the title of the news item
+  config:
+    required: true
+- type: file
+  name: featured_image
+  label: Featured Image for banner at top (optional)
+  description: A landscape image works best
+- type: datetime
+  name: date
+  label: Date
+  description: Date of news item
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: boolean
+  name: draft
+  label: Draft?
+  description: If set to true the page will be kept as a draft and not published
