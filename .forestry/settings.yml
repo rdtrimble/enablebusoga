@@ -4,15 +4,26 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- path: content/programmes
+- type: directory
+  path: content/programmes
   label: Programmes
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/news
+  match: "*"
+- type: directory
+  path: content/news
   label: News
   create: all
+  match: "**/*"
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
