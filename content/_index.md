@@ -25,6 +25,8 @@ It is the calling of Enable Busoga to love, care and empower the vulnerable and 
 1. [**The Barbara Project- enabling disabled children in Busoga**](/programmes/barbara-project). This work is carried out through partnership
    with a Ugandan non- government organisation (NGO) 'Family Life Education program' (FLEP). This project has
    enabled the setting up of a service to improve the lives of disabled children in remote village locations.
+
+        
 2. [**Enabling School improvements in Busoga**](/programmes/school-improvements).  Funds have been raised to complete building work for staff accommodation,
    school classrooms, school books and water sources in order to improve the standards of village schools. Funding for
    this work is largely carried out from UK. Construction work is usually carried out by a third party organisation
