@@ -1,6 +1,6 @@
 ---
 title: Enable Busoga
-date: 2018-05-26 20:23:31 +0000
+date: 2018-05-26T20:23:31.000+00:00
 description: Helping others help themselves by transferring expertise, equipment and
   finance.
 featured_image: "/images/enable.jpg"
@@ -29,5 +29,4 @@ It is the calling of Enable Busoga to love, care and empower the vulnerable and 
    school classrooms, school books and water sources in order to improve the standards of village schools. Funding for
    this work is largely carried out from UK. Construction work is usually carried out by a third party organisation
    The Henry Van-Straubenzie Memorial Fund (HVSMF). Occasional visits are made to schools in Busoga by visitors from the UK.
-3. [**Enabling the development of small businesses within Busoga**](/programmes/small-business-development). Investment from the UK has been made into businesses:
-   growing and drying local fruit; growing and planting trees; and charging mobile phones from solar panels.
+3. [**Enabling the development of small businesses within Busoga**](/programmes/small-business-development). Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting trees; charging mobile phones and powering barber shops from solar panels. Also we have had the opportunity to work with a new partner in Beni, DRC providing finance for women to start-up small businesses.
