@@ -1,6 +1,6 @@
 ---
 title: The Barbara Project
-date: 2018-05-26 20:30:42 +0000
+date: 2018-05-26T20:30:42.000+00:00
 featured_image: "/images/penny-katy-wheelchair-1.jpg"
 
 ---
@@ -23,8 +23,8 @@ Two Ugandan professionals working with Ugandan Non- government organisations. On
 
 ## The Aims of 'The Barbara Project'
 
-1. To improve the quality of life of disabled children in remote villages throughout the Busoga Diocese
-2. To improve the awareness of disability in the remote villages.
+1. To improve the quality of life of disabled children in remote villages throughout the Busoga Diocese.
+2. To Improve the awareness, prevention and treatment of disabled children in the remote villages.
 
 The Aims above are achieved as follows:
 
@@ -34,7 +34,17 @@ The Aims above are achieved as follows:
 
 ## The impact of the work
 
-So far over 500 disabled children have been reached from 50 different remote villages in Busoga. Over 150 wheelchairs have been issued, 50 pairs of crutches and numerous shoe raises, shoes and exercise programs. The team have been delighted to see many of the children they have seen attending schools in their wheelchairs and also that many schools have recently built concrete ramps enabling wheelchair access to classrooms. The team have also seen older teenagers issued with a wheelchair or mobility trike gaining employment successfully.
+So far over 600 disabled children have been reached from 50 different remote villages in Busoga. Over 200 wheelchairs have been issued, 50 pairs of crutches and numerous shoe raises, shoes and exercise programs. The team have been delighted to see many of the children they have seen attending schools in their wheelchairs and also that many schools have recently built concrete ramps enabling wheelchair access to classrooms. The team have also seen older teenagers issued with a wheelchair or mobility trike gaining employment successfully.
 
 There are still many more disabled children in need to reach in Busoga and there is a considerable need for the workshops to improve understanding about disability issues. The children continually grow out of their wheelchairs and also their wheelchairs wear out quickly with the African terrain. There is therefore considerable need for this work in Busoga and funds for equipment to enable the lives of these children to be transformed.
 All donations to the Barbara Project go directly to fund equipment for the disabled children or to fund our Ugandan health workers. As Enable Busoga is a registered charity any donations can be gift aided if the donor is a tax payer.
+
+Penny and Katy are grateful to Church Mission Society for the initial training they provided to equip them for this work and for their continuing interest and encouragement with the project.
+
+We remain grateful to donors (many of whom are from the congregation of St. James By The Park Shirley). Our donors have given generously to the work of this program over many years. Without these donations we would not have been able to issue the life changing prescribed mobility equipment. In particular we wish to thank the Walkabout foundation who have given us 50 wheelchairs to distribute to these children.
+
+**Covid 19**
+
+Uganda has been in lockdown due to covid 19 since March 2020 it has therefore been impossible to run assessment clinics. Assessment clinics were however held by the team in February that year and the prescribed equipment has been issued. Clinics will resume once schools are allowed to open again.
+
+The project is now sustainable in terms of ‘manpower’ in Uganda. Penny and Katy are looking to cease their visits in 2022. Benson and Stephen will continue the actual running of the project however donations will still be needed to purchase the essential mobility equipment and for expenses to enable the team to travel to the villages.
