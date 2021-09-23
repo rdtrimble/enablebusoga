@@ -7,4 +7,4 @@ Funds have been raised to complete building work for staff accommodation, school
 
 Teachers’ accommodation at Itakulu school in Bupadhengo parish was renovated in 2019 by HVSMF funded by Enable Busoga.
 
-![Teachers’ accommodation at Itakulu school in Bupadhengo parish was renovated in 2019 by HVSMF funded by Enable Busoga.](/images/teacher_block.jpg "Teachers’ accommodation at Itakulu school")
+![Teachers’ accommodation at Itakulu school in Bupadhengo parish was renovated in 2019 by HVSMF funded by Enable Busoga.](/images/teacher_block.jpg "Teachers’ accommodation at Itakulu school")![Inside the Teachers’ accommodation at Itakulu school in Bupadhengo parish](/images/teacher_block_inside.jpg "Inside the Teachers' accommodation")
