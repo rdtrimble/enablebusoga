@@ -1,9 +1,8 @@
 ---
-title: "Barbara Project Profiles"
-date: 2018-05-26T21:38:44+01:00
-draft: false
----
+title: Barbara Project Profiles
+date: 2018-05-26T21:38:44.000+01:00
 
+---
 Here are some examples of children whose lives have been transformed with help from The Barbara Project Team (for safeguarding purposes their real names are not used)
 
 ## Samuel
@@ -20,3 +19,15 @@ Henry is from a Muslim family. His mother died during labour and Henry was born 
 
 Oliver has muscular dystrophy. He was unable to walk or move himself around, so was dependent on others to pick him up and carry him around. He was issued with a wheelchair and discovered that on level ground he had enough muscle strength to self-propel his wheelchair. This has given him a degree of independence and has significantly improved the quality of his life.
 ![Oliver in a wheelchair smiling](/images/oliver.jpg)
+
+## EB Supports FLEP
+
+The [Family Life Education Program (FLEP)](http://flepuganda.org  "http://flepuganda.org ") provides health services through its 50+ health centres located throughout Busoga. Uganda has been hit hard by Covid with lockdowns closing educational establishments and other communal activities while movement has been severely restricted. Many infections and deaths have gone unrecorded. EB has partnered with FLEP to train its health workers in anti-Covid interventions (hand-washing, social distancing, mask wearing) and in preparing for participation in vaccine delivery as Uganda expects to receive up to 27 million doses from the end of September 2021 onwards.
+
+The executive director and team lead demonstrating how to use a facemask
+
+![The executive director and team lead demonstrating how to use a facemask](/images/facemask.jpg "The executive director and team lead demonstrating how to use a facemask")
+
+A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.![A Community sensitization on COVID -19 vaccine and vaccination program.](/images/covid19vac.jpg "A Community sensitization on COVID -19 vaccine and vaccination program.")
+
+A Community sensitization on COVID -19 vaccine and vaccination program.
