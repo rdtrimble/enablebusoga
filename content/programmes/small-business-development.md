@@ -24,6 +24,10 @@ A manager and several workers are employed to look after the seedlings. There ha
 
 Since 2013, the nursery has supplied over 1.2 million fruit and timber tree seedlings to householders, private landowners or for planting on church land. Over this time, planting has taken place at 17 church sites in the districts of Mayuge, Bugiri and Iganga. This has involved demarcating boundaries with a native softwood (Musizi) and in most cases infilling with fruit and timber species. There is significant demand to expand this programme so EB has sponsored a pilot at a number of sites to ascertain the resource and cost requirements per site. Unfortunately, due to Covid lockdowns it wasn’t possible to complete this in 2020 but further planting and gap filling was undertaken during the first wet season of 2021.
 
+We also intended to plant sites in 2021 as part of a Carbon-Offsetting venture but again due to lockdowns this has had to be postponed until the first rains of 2022.
+
+Tree planting during the second rains in September/October has become too risky so an alternative scheme has been developed with THU to plant swathes of shrubs and grasses which sequester plenty of carbon, can be cut for animal fodder and will regenerate multiple times. Kicking off this month, 13 small farms across 6 parishes will plant seeds covering an area of 15 acres.
+
 ## Solar Powered Mobile Phone Charging
 
 ![Picture of a bank of basic mobile phones being charged from a six gang adaptor](/images/phones-charging.jpg)
