@@ -16,13 +16,13 @@ Each set of driers supports a number of families who can bring their fruit to be
 
 ## Tree Nursery and Planting
 
-The nursery was first established in 2013 and has expanded considerably since then. It grows a number of different species such as: Musizi for boundaries;  Pine and Eucalyptus for timber, Avocado and Mango for fruit and also Coffee.
+The Transcending Hope Uganda (THU) nursery was first established in 2013 and has expanded considerably since then. It grows a number of different species such as: Musizi for boundaries;  Pine and Eucalyptus for timber, Avocado and Mango for fruit and also Coffee.
 
 ![Picture of trees growing under a net with workers tending the saplings](/images/trees-growing.jpg)
 
 A manager and several workers are employed to look after the seedlings. There has been a considerable reduction in tree cover over much of Busoga so local residents are encouraged to plant trees to prevent soil erosion by heavy rain and to provide long term crops such as timber and fruit which will sustain families and keep them on the land. The nursery has faced challenging times such as during the long 2017 drought but has remained profitable throughout.
 
-Since 2013, the nursery has supplied over 1.2 million fruit and timber tree seedlings to householders, private landowners or for planting on church land. Over this time, planting has taken place at 17 church sites in the districts of Mayuge, Bugiri and Iganga. This has involved demarcating boundaries with a native softwood (Musizi) and in most cases infilling with fruit and timber species. There is significant demand to expand this programme so EB is sponsoring a pilot to ascertain the resource and cost requirements per site.
+Since 2013, the nursery has supplied over 1.2 million fruit and timber tree seedlings to householders, private landowners or for planting on church land. Over this time, planting has taken place at 17 church sites in the districts of Mayuge, Bugiri and Iganga. This has involved demarcating boundaries with a native softwood (Musizi) and in most cases infilling with fruit and timber species. There is significant demand to expand this programme so EB has sponsored a pilot at a number of sites to ascertain the resource and cost requirements per site. Unfortunately, due to Covid lockdowns it wasn’t possible to complete this in 2020 but further planting and gap filling was undertaken during the first wet season of 2021.
 
 ## Solar Powered Mobile Phone Charging
 
