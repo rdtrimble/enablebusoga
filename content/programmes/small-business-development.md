@@ -14,7 +14,7 @@ The drying of locally harvested fruits such as pineapple and mango uses the powe
 
 Each set of driers supports a number of families who can bring their fruit to be processed. Once dried the fruit is bagged and sold locally to schools and other educational establishments. Drying increases the shelf life of the fruit from a few days to several months so it can be used over an extended period. Each family bringing fruit to be dried is paid accordingly once the fruit is sold.
 
-## Tree Nursery
+## Tree Nursery and Planting
 
 The nursery was first established in 2013 and has expanded considerably since then. It grows a number of different species such as: Musizi for boundaries;  Pine and Eucalyptus for timber, Avocado and Mango for fruit and also Coffee.
 
