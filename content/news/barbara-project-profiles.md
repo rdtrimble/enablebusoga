@@ -1,6 +1,6 @@
 ---
 title: Barbara Project Profiles
-date: 2018-05-26T21:38:44.000+01:00
+date: 2021-09-14T20:38:44+00:00
 
 ---
 Here are some examples of children whose lives have been transformed with help from The Barbara Project Team (for safeguarding purposes their real names are not used)
