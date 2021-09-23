@@ -4,7 +4,7 @@ date: 2021-09-14T20:32:00+00:00
 featured_image: "/images/fruit-drying.jpg"
 
 ---
-Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings and charging mobile phones from solar panels.
+Investment from the UK has been made into businesses: growing and drying local fruit; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels.
 
 ## Dried Fruit
 
