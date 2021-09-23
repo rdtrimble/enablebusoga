@@ -28,6 +28,4 @@ The executive director and team lead demonstrating how to use a facemask
 
 ![The executive director and team lead demonstrating how to use a facemask](/images/facemask.jpg "The executive director and team lead demonstrating how to use a facemask")
 
-A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.A Community sensitization on COVID -19 vaccine and vaccination program.![A Community sensitization on COVID -19 vaccine and vaccination program.](/images/covid19vac.jpg "A Community sensitization on COVID -19 vaccine and vaccination program.")
-
-A Community sensitization on COVID -19 vaccine and vaccination program.
+A Community sensitization on COVID -19 vaccine and vaccination program.![A Community sensitization on COVID -19 vaccine and vaccination program.](/images/covid19vac.jpg "A Community sensitization on COVID -19 vaccine and vaccination program.")
