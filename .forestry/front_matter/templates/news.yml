@@ -23,3 +23,5 @@ fields:
   name: draft
   label: Draft?
   description: If set to true the page will be kept as a draft and not published
+pages:
+- content/news/eb-supports-flep.md
