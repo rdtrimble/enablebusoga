@@ -1,6 +1,6 @@
 ---
 title: EB Supports FLEP
-featured_image: "/images/facemask.jpg"
+featured_image: "/images/facemask2.jpg"
 date: 2021-09-13T23:00:00+00:00
 draft: true
 
