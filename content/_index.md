@@ -10,7 +10,7 @@ menu:
     weight: 2
 
 ---
-Enable Busoga is a UK based Charitable Incorporative Organisation (CIO) formed in 2014. Busoga is a region of Southern Uganda whose main town is Jinja where the mighty river Nile has its source. Most people live in rural areas where there is much poverty. Enable Busoga has grown out of a long and close link between Shirley Parish Church Southampton and Bupadhengo church in Busoga. As its name suggests, Enable Busoga exists to help people help themselves through the transfer of expertise, equipment and finance. Through partnership with Ugandan friends and colleagues we are active in education, business and in areas of health provision often overlooked by other agencies.
+Enable Busoga is a UK based Charitable Incorporated Organisation (CIO) formed in 2014. Busoga is a region of Southern Uganda whose main town is Jinja where the mighty river Nile has its source. Most people live in rural areas where there is much poverty. Enable Busoga has grown out of a long and close link between Shirley Parish Church Southampton and Bupadhengo church in Busoga. As its name suggests, Enable Busoga exists to help people help themselves through the transfer of expertise, equipment and finance. Through partnership with Ugandan friends and colleagues we are active in education, business and in areas of health provision often overlooked by other agencies.
 
 ## Our Foundation
 
