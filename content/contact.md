@@ -4,7 +4,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 We'd love to hear more from you and are happy to answer any questions you may have or work with you to find ways in which you can volunteer/support in the future.
