@@ -3,7 +3,7 @@ title: Enable Busoga
 date: 2018-05-26T20:23:31.000+00:00
 description: Helping others help themselves by transferring expertise, equipment and
   finance.
-featured_image: "/images/enable.jpg"
+featured_image: "/images/busogamaincrop.jpg"
 menu:
   main:
     name: Home
