@@ -5,14 +5,19 @@ featured_image: "/images/fruit-drying.jpg"
 
 ---
 Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels.
-Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels.
 
+# heading 1
 
+## heading 2
 
+### heading 3
 
+> quote
 
+    ccode
 
 # Dried Fruit
+
 The drying of locally harvested fruits such as pineapple and mango uses the power of the sun of which there is an abundance.
 
 ![Picture of man drying fruit on a teal table](/images/fruit-drying.jpg)
