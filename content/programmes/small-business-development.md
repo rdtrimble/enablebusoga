@@ -6,7 +6,13 @@ featured_image: "/images/fruit-drying.jpg"
 ---
 Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels.
 
+## Dried Fruit
+
+The drying of locally harvested fruits such as pineapple and mango uses the power of the sun of which there is an abundance.
+
 ![Picture of man drying fruit on a teal table](/images/fruit-drying.jpg)
+
+Each set of driers supports a number of families who can bring their fruit to be processed. Once dried the fruit is bagged and sold locally to schools and other educational establishments. Drying increases the shelf life of the fruit from a few days to several months so it can be used over an extended period. Each family bringing fruit to be dried is paid accordingly once the fruit is sold.
 
 ## Tree Nursery and Planting
 
