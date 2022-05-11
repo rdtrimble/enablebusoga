@@ -6,9 +6,9 @@ featured_image: "/images/fruit-drying.jpg"
 ---
 Investment from the UK has been made into businesses. These are:
 
-* growing and drying local fruit; 
-* growing and planting tree seedlings; 
-* encouraging regenerative agriculture and 
+* growing and drying local fruit.
+* growing and planting tree seedlings.
+* encouraging regenerative agriculture.
 * charging mobile phones/powering barber shops from solar panels. 
 
   .......
