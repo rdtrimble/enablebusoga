@@ -4,9 +4,9 @@ date: 2021-09-14T20:32:00+00:00
 featured_image: "/images/fruit-drying.jpg"
 
 ---
-Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels. Investment from the UK has been made into businesses: growing and drying local fruit; growing and planting tree seedlings; encouraging regenerative agriculture and charging mobile phones/powering barber shops from solar panels.
+Investment from the UK has been made into a number of small businesses: growing and drying local fruit such as Mango and Pineapple for sale in schools and colleges and for export; a commercial nursery growing fruit and timber tree seedlings for sale to local farmers; a village-based solar energy enterprise charging mobile phones and powering barber shops using energy stored from solar panels together with an initiative to encourage regenerative agriculture with fodder crops such as Elephant Grass and Calliandra. The tree planting has developed further to support a carbon-offsetting project covering 10 hectares of Church of Uganda land on 4 sites. This was delayed from 2021 due to Covid but is now underway in the first rains of 2022. More on this to come!
 
-## Dried Fruit.
+## Dried Fruit
 
 The drying of locally harvested fruits such as pineapple and mango uses the power of the sun of which there is an abundance.
 
