@@ -12,20 +12,20 @@ The executive director and team lead demonstrating how to use a facemask.
 
 A Community sensitization on COVID -19 vaccine and vaccination program.
 
-![](/images/covid19vac.jpg)
+![A Community sensitization on COVID -19 vaccine and vaccination program.](/images/covid19vac.jpg "A Community sensitization on COVID -19 vaccine and vaccination program.")
 
 Uganda’s vaccine programme has been relatively successful. As of 8th May 2022, according to the World Health Organisation, nearly 21 million vaccine doses have been administered across the country. FLEP has made a significant contribution towards this in rural Busoga. For example, in the 2 weeks between 29th January and 10th February 2022, FLEP staff delivered nearly 33,000 jabs from 16 of their Health Centres.
 
 Registration exercise of community members yet to receive their vaccines.
 
-![](/images/registration-exercise.jpg)
+![Registration exercise of community members yet to receive their vaccines.](/images/registration-exercise.jpg "Registration exercise of community members yet to receive their vaccines.")
 
 A group of women queue up for their first vaccination.
 
-![](/images/vaccine_queue.jpg)
+![A group of women queue up for their first vaccination.](/images/vaccine_queue.jpg "A group of women queue up for their first vaccination.")
 
 A community member receiving his vaccine.
 
-![](/images/getting_vaccine.jpg)
+![A community member receiving his vaccine.](/images/getting_vaccine.jpg "A community member receiving his vaccine.")
 
 Across Uganda, all Covid restrictions have now been lifted so schools and colleges have been able to resume after a two- year hiatus. In Busoga, FLEP will continue with its vaccination programme for the foreseeable future.
