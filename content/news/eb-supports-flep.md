@@ -4,7 +4,7 @@ featured_image: "/images/facemask2.jpg"
 date: 2022-05-11T23:00:00+00:00
 
 ---
-The [Family Life Education Program (FLEP)](http://flepuganda.org/ "http://flepuganda.org ") provides health services through its 50+ health centres located throughout Busoga. Uganda has been hit hard by Covid with lockdowns closing educational establishments and other communal activities while movement has been severely restricted. Many infections and deaths have gone unrecorded. EB has partnered with FLEP to train its health workers in anti-Covid interventions (hand-washing, social distancing, mask wearing) and in preparing for participation in vaccine delivery as Uganda expects to receive up to 27 million doses from the end of September 2021 onwards.
+The [Family Life Education Program (FLEP)](http://flepuganda.org/ "http://flepuganda.org ") provides health services through its 50+ health centres located throughout Busoga. Uganda was hit hard by Covid during 2020 and 2021 with persistent lockdowns closing educational establishments and other communal activities while movement was severely restricted. Many infections and deaths went unrecorded. With financial support from St James by the Park Southampton, EB partnered with FLEP to train its health workers in anti-Covid interventions (hand washing, social distancing, mask wearing) and in preparing them for participation in vaccine delivery.
 
 The executive director and team lead demonstrating how to use a facemask.
 
@@ -13,3 +13,19 @@ The executive director and team lead demonstrating how to use a facemask.
 A Community sensitization on COVID -19 vaccine and vaccination program.
 
 ![](/images/covid19vac.jpg)
+
+Uganda’s vaccine programme has been relatively successful. As of 8th May 2022, according to the World Health Organisation, nearly 21 million vaccine doses have been administered across the country. FLEP has made a significant contribution towards this in rural Busoga. For example, in the 2 weeks between 29th January and 10th February 2022, FLEP staff delivered nearly 33,000 jabs from 16 of their Health Centres.
+
+Registration exercise of community members yet to receive their vaccines.
+
+![](/images/registration-exercise.jpg)
+
+A group of women queue up for their first vaccination.
+
+![](/images/vaccine_queue.jpg)
+
+A community member receiving his vaccine.
+
+![](/images/getting_vaccine.jpg)
+
+Across Uganda, all Covid restrictions have now been lifted so schools and colleges have been able to resume after a two- year hiatus. In Busoga, FLEP will continue with its vaccination programme for the foreseeable future.
