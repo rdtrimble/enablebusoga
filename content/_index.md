@@ -18,7 +18,7 @@ As a Christian organisation we look to the Bible for inspiration. The writer of 
 
 > Defend the weak and the fatherless; uphold the cause of the poor and the oppressed. Rescue the weak and the needy
 
-It is the calling of Enable Busoga to love, care and empower the vulnerable and marginalised. We work closely with and support our many friends and partners in the Anglican church of Uganda as they seek to do the same.
+It is the calling of Enable Busoga to love, care and empower the vulnerable and marginalised. We work closely with and support our many friends and partners in the Anglican church of Uganda as they seek to do the same..
 
 ## Our Latest News
 
