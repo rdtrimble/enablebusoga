@@ -24,5 +24,6 @@ fields:
   label: Draft?
   description: If set to true the page will be kept as a draft and not published
 pages:
+- content/news/eb-plants-trees.md
 - content/news/eb-supports-flep.md
 - content/programmes/school-improvements.md
