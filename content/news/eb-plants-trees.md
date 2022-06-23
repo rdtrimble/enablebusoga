@@ -11,7 +11,7 @@ Tree Seedlings being selected from the nursery.
 
 ![](/images/treeseedlingsbeingselected.jpg)
 
-Seedlings being counted before planting.Seedlings being counted before planting.
+Seedlings being counted before planting.
 
 ![](/images/seedlingsbeingcounted.jpg)
 
