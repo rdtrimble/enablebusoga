@@ -23,3 +23,7 @@ It is the calling of Enable Busoga to love, care and empower the vulnerable and 
 ## Our Latest News
 
 Read about [Our Latest News](https://www.enablebusoga.org/news/ "Our Latest News")
+
+## Our Programmes
+
+Read about [Our Programmes](https://www.enablebusoga.org/programmes/ "Our Programmes")
