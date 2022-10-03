@@ -20,10 +20,6 @@ As a Christian organisation we look to the Bible for inspiration. The writer of 
 
 It is the calling of Enable Busoga to love, care and empower the vulnerable and marginalised. We work closely with and support our many friends and partners in the Anglican church of Uganda as they seek to do the same.
 
-## Our Latest News
-
-Read about [Our Latest News](https://www.enablebusoga.org/news/ "Our Latest News")
-
 ## Our Programmes
 
 Read about [Our Programmes](https://www.enablebusoga.org/programmes/ "Our Programmes")
